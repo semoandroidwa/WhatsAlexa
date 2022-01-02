@@ -31,7 +31,7 @@ npm i chalk
 node alexa.js
 ```
   
-## 💫 Deploy & Run WhatsAlexa 💫
+## 💫 Deploy & Run SemoAlexaBot 💫
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
