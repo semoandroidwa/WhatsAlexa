@@ -116,9 +116,9 @@ you can contact -
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+ [![SEMO_ANDROID](https://github.com/semoandroidwa.png?size=100)](https://github.com/semoandroidwa) |
 ----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | 
+[SEMO_ANDROID](https://github.com/semoandroidwa)  | 
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
 ## ✨ Special Features ✨
