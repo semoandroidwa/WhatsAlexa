@@ -8,7 +8,7 @@
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    WhatsAlexa is a Helper WhatsApp Bot Written By @SEMO_ANDROID with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
 
 <p align="center">
