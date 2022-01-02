@@ -4,7 +4,7 @@
 # [![Typing SVG](https://bit.ly/3tSyaJK)](https://github.com/TOXIC-DEVIL)
 
 <div align="center">
-  <img src="https://giphy.com/gifs/zgYclqwTS5ZngTlspi" width="220" height="200">
+  <img src="https://i.ibb.co/8Yj4xZD/nsfwdoge.jpg?format=jpg&name=900×900" width="220" height="200">
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
